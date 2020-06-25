@@ -20,7 +20,6 @@ Don't worry if you make mistakes. This repository is created for just that, to l
 * git add.
 * git commit -m "message with the changes made"
 * git push origin guestbook
-
 * Now, go to your copy of the "guestbook" repository on Github, go to the "guestbook" branch of it, and do pull request. Write a message with a detailed description of the changes you have made. Ex: "I added my name, my personal message and my hobbies".
 
 That is all for now.
