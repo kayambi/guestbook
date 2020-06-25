@@ -2,3 +2,33 @@
   background-color: #00f;
   color: #fff;
 }
+
+.person-container {
+  border-bottom: 1px solid #333;
+}
+
+#trau.person-container {
+  background: lightblue;
+  padding: 0.5em;
+}
+#trau ul {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#trau li {
+  border: 1px solid purple;
+  margin: 0.5em;
+  padding: 0.5em;
+  color: purple;
+  border-radius: 0.3em;
+  transition: 0.5s;
+}
+
+#trau li:hover {
+  color: white;
+  background: #333;
+}
+
