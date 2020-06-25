@@ -16,6 +16,19 @@ Don't worry if you make mistakes. This repository is created for just that, to l
 * Create a new branch and name it "guestbook" (git checkout -b guestbook).
 * Make all your changes in the "guestbook" branch
 
+**What to do**
+* In index.html
+* In index.html, right after the last closing div "content-container":
+* Create a div with class "content-container" and a custom id (your name, nick name or whatever you want).
+* Inside your div, create:
+  * An H2 tag with your name
+  * A p tag with a personalized message
+  * An ul with lis, you can put hobbies or whatever you want
+
+* In style.css:
+  * Create your own rules to add styles to your div, or feel free to use rules that others have already created.
+  * Whenever possible, try to add styles to classes or ids, instead of adding styles directly to elements (h1, div, p, ul, etc ...).
+
 **Once your changes are ready, do the following:**
 
 * git add.
@@ -28,5 +41,8 @@ That is all for now.
 This course can help you have a better understanding of how to use Git and Github
 https://teamtreehouse.com/library/github-basics
 
-Create issues on the link below on the parent repo if you are stuck, have any questions or suggestions.
+Create issues on the link below on the parent repo if you are stuck, have any questions.
+
+Feel totally free to suggest improvements and changes.
+
 
