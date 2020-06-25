@@ -29,3 +29,4 @@ This course can help you have a better understanding of how to use Git and Githu
 https://teamtreehouse.com/library/github-basics
 
 Create issues on the link below on the parent repo if you are stuck, have any questions or suggestions.
+
