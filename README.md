@@ -14,7 +14,7 @@ Don't worry if you make mistakes. This repository is created for just that, to l
 * Create a copy of this repository in your Github account, using fork (the fork option is in the upper right corner of the repository, just below the navbar).
 * Now, from the copy of the repository in your Github account, clone the repository on your computer.
 * Create a new branch and name it "guestbook" (git checkout -b guestbook).
-* Make all your changes in the "guestbook" branch
+* Make all your changes in the "guestbook" branch.
 
 **What to do**
 * In index.html, right after the last closing div "content-container", create a div with class "content-container" and a custom id (your name, nick name or whatever you want).
@@ -26,16 +26,16 @@ Don't worry if you make mistakes. This repository is created for just that, to l
   * Create your own rules to add styles to your div, or feel free to use rules that others have already created.
   * Whenever possible, try to add styles to classes or ids, instead of adding styles directly to elements (h1, div, p, ul, etc ...).
 
-**Once your changes are ready, do the following:**
+**Once your changes are ready, do the following in the terminal:**
 
-* git add.
+* git add .
 * git commit -m "message with the changes made"
 * git push origin guestbook
 * Now, go to your copy of the "guestbook" repository on Github, go to the "guestbook" branch of it, and do pull request. Write a message with a detailed description of the changes you have made. Ex: "I added my name, my personal message and my hobbies".
 
 That is all for now.
 
-This course can help you have a better understanding of how to use Git and Github
+This course can help you have a better understanding of how to use Git and Github.
 https://teamtreehouse.com/library/github-basics
 
 Create issues on the link below on the parent repo if you are stuck, have any questions.
