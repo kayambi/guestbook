@@ -11,12 +11,13 @@ Don't worry if you make mistakes. This repository is created for just that, to l
 
 **Your first contribution**
 
-* Create a copy of this repository in your Github account, using fork (in the upper right corner of the repository is the fork option, just below the navbar).
+* Create a copy of this repository in your Github account, using fork (the fork option is in the upper right corner of the repository, just below the navbar).
 * Now, from the copy of the repository in your Github account, clone the repository on your computer.
 * Create a new branch and name it "guestbook" (git checkout -b guestbook).
 * Make all your changes in the "guestbook" branch
 
-**Once your changes are ready, do**
+**Once your changes are ready, do the following:**
+
 * git add.
 * git commit -m "message with the changes made"
 * git push origin guestbook
@@ -24,4 +25,8 @@ Don't worry if you make mistakes. This repository is created for just that, to l
 
 That is all for now.
 
-Create issues on the link below on the parent repo if you are stuck, have any questions or suggestion.
+This course can help you have a better understanding of how to use Git and Github
+https://teamtreehouse.com/library/github-basics
+
+Create issues on the link below on the parent repo if you are stuck, have any questions or suggestions.
+
