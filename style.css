@@ -38,3 +38,8 @@
   background: #333;
 }
 
+#sdana.person-container {
+  background: rgb(49, 139, 126);
+  padding: 0.5em;
+  color: white;
+}
