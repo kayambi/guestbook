@@ -1,10 +1,16 @@
-#johanochoa {
-  background-color: #00f;
-  color: #fff;
-}
 
 .person-container {
   border-bottom: 1px solid #333;
+}
+
+#jochoa {
+  padding: 10px;
+  background-color: #55f;
+  color: #fff;
+}
+
+#jochoa h2 {
+  font-size: 2em;
 }
 
 #trau.person-container {
