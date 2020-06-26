@@ -9,6 +9,10 @@
   color: #fff;
 }
 
+#jochoa h2 {
+  font-size: 2em;
+}
+
 #trau.person-container {
   background: lightblue;
   padding: 0.5em;
