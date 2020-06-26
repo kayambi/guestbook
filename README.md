@@ -11,7 +11,7 @@ Don't worry if you make mistakes. This repository is created for just that, to l
 
 **Your first contribution**
 
-* Create a copy of this repository in your Github account, using fork (the fork option is in the upper right corner of the repository, just below the navbar).
+* Create a copy of this repository in your Github account, using fork (the fork option is in the upper right corner of the repository, just below the main navbar).
 * Now, from the copy of the repository in your Github account, clone the repository on your computer.
 * Create a new branch and name it "guestbook" (git checkout -b guestbook).
 * Make all your changes in the "guestbook" branch.
