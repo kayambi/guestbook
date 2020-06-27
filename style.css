@@ -1,6 +1,7 @@
 
 .person-container {
   border-bottom: 1px solid #333;
+
 }
 
 #jochoa {
@@ -43,3 +44,24 @@
   padding: 0.5em;
   color: white;
 }
+
+.lu{
+  background-color: black;
+  color:white;
+  padding:3rem;
+  font-family: 'Holtwood One SC', serif;
+}
+.lu h2{
+  font-family: 'Holtwood One SC', serif;
+  color:yellow;
+}
+.lu h3{
+  font-weight: bold;
+  color:fuchsia;
+  text-transform: uppercase;
+}
+.lu ul{
+  list-style: none;
+  padding: 0;
+}
+
