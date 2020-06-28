@@ -1,11 +1,10 @@
-
 .person-container {
   border-bottom: 1px solid #333;
 }
 
 #jochoa {
   padding: 10px;
-  background-color: #55f;
+  background-color: #66f;
   color: #fff;
 }
 
@@ -38,8 +37,15 @@
   background: #333;
 }
 
-#sdana.person-container {
+#sdana{
   background: rgb(49, 139, 126);
   padding: 0.5em;
   color: white;
+}
+
+#natacski {
+    background: linear-gradient(to bottom right, #ffcccc 34%, #cc6699 80%);
+    padding: 20px;
+    border: 5px double #cc0066; 
+    
 }
